@@ -1,6 +1,11 @@
+# Welcome
+
 ---
 redirect_from: "/"
 ---
+
+### Welcome to the PERIMETER Wiki
+
 
 Get Perimeter here:
 [Perimeter](https://github.com/EM4Volts/Perimeter)
