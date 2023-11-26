@@ -1,12 +1,10 @@
-## ROADMAP
+
 ![Roadmap](assets/images/perimeter-roadmapv2.png)
 
 
 
 
 # Currently Planned Features for 2.0:
-
-
 
 VMT Material setup allowing for setting up VMT Materials the same way dumped rpak materials are currently setup, except straight from their source files
 
