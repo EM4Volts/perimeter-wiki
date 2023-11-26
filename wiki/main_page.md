@@ -1,8 +1,5 @@
 # Welcome
 
----
-redirect_from: "/"
----
 
 ### Welcome to the PERIMETER Wiki
 
