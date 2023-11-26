@@ -1,6 +1,6 @@
 # Guide on How to Setup PERIMETER
 
-### Guide on How to Setup PERIMETER
+## Guide on How to Setup PERIMETER
 
 
 1. # Downloading PERIMETER
