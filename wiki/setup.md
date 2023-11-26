@@ -15,3 +15,5 @@
     - Select the downloaded .zip file
     
 3. # Configuring PERIMETER
+	
+	-In the Add-On Tab search for "Perimeter"
