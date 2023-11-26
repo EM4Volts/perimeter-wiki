@@ -1,5 +1,4 @@
-Current Roadmap for 2.0
-
+## ROADMAP
 ![Roadmap](assets/images/perimeter-roadmapv2.png)
 
 
