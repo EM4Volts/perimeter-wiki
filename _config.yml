@@ -77,6 +77,11 @@ defaults:
     values:
       layout: "git-wiki-bs-lux"
  -
+     scope:
+      path: "/main_page.md" # an empty string here means all files in the project
+    values:
+      layout: "git-wiki-bs-lux"
+ -
     scope:
       path: ""
       type: "pages"
