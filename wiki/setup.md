@@ -4,7 +4,7 @@
 
 
 1. # Downloading PERIMETER
-    ![Step 1](assets/images/setup/step1.png)
+    ![Step 1](assets/images/setup/step1.png) \
     Visit [Perimeter](https://github.com/EM4Volts/Perimeter) and download the latest source code by clicking on the "Download" button on the GitHub page
     
 
