@@ -13,6 +13,7 @@
     - In Blender open the Add-On Settings ( `Edit` > `Preferences` > `Add-ons`)
     - Click on the `Install` button
     - Select the downloaded .zip file
+    
     ![Step 2](assets/images/setup/step2.png)
     
 3. # Configuring PERIMETER
