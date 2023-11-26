@@ -15,3 +15,6 @@ QoL Changes such as:
 -   remaking the expot panel for better exporting and removing bugs
 -   Error warnings on potential problems after export when pressing export
 -   and more...
+
+
+Got ideas for features? suggest them [Here](https://github.com/EM4Volts/Perimeter/pulls)!
