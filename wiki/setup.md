@@ -17,3 +17,5 @@
 3. # Configuring PERIMETER
 	
 	-In the Add-On Tab search for "Perimeter"
+	
+	TO BE DONE TO BE DONE WORK IN PROGRESS TO BE DONE
