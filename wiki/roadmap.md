@@ -1,6 +1,6 @@
 Current Roadmap for 2.0
 
-![Roadmap](assets/images/perimeter-roadmap.png)
+![Roadmap](assets/images/perimeter-roadmapv2.png)
 
 
 
