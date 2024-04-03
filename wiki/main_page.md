@@ -13,7 +13,7 @@ Get Perimeter here:
 Learn how to Setup Perimeter:
 [Setup](/setup.md)
 
-Current Roadmap:
-[Roadmap](/roadmap.md)
+Download Materials:
+[Roadmap](/materials.md)
 
 
