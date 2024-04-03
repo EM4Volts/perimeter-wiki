@@ -16,6 +16,5 @@
     
 3. # Configuring PERIMETER
 	
-	-In the Add-On Tab search for "Perimeter"
-	
-	TO BE DONE TO BE DONE WORK IN PROGRESS TO BE DONE
+	Video guide:
+		[Perimeter 2.0 Setup guide](https://youtu.be/-Pc-auucBNo)
